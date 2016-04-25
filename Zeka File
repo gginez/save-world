@@ -1,0 +1,65 @@
+
+<!DOCTYPE html>
+
+<html>
+	<head>
+	<title>Zeka File - Intro</title>
+
+        <meta name="description" content="Out of the Gate Productions provides quality entertainment" />
+        <meta name="keywords" content="Heidi Fleiss, Animal Planet, Red Bucket, Equine Rescue, 501(c)3, Horse, Productions, Studio, Camera, Videos, Horses, Surgery, YouTube, Animal, Concept, Design, Documentary, Reality, Television" />
+        <meta name="author" content="The Gate Keeper" />
+        <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
+        <link rel='stylesheet' href='res/styles/common.css' type='text/css' />
+
+        <link rel='stylesheet' type='text/css' href='files/main_style.css?1347762421' title='wsite-theme-css' />
+        <!-- Not using ExtJS, rather AngularJS  
+            <link rel="stylesheet" type="text/css" href="res/scripts/extjs/3.4.0/resources/css/ext-all.css" />
+        -->        
+        <!-- Switching to AngularJS, yet keep just in case
+        <script type="text/javascript" src="res/scripts/extjs/3.4.0/adapter/ext/ext-base.js"></script>
+        <script type="text/javascript" src="res/scripts/extjs/3.4.0/ext-all.js"></script>
+        -->
+        <script src="res/scripts/angularjs/1.0.2/angular.min.js"></script>
+        <script src="res/scripts/angularjs/1.0.2/angular-resource.min.js"></script>
+        
+        <!--script type="text/javascript" src="res/scripts/outofthegate.js"></script-->
+
+        <link rel="stylesheet" href="res/styles/outofthegate.css" type="text/css">
+        
+        <link href="favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+	</head>
+	
+	
+	
+	<body>
+
+		<div id="logolink">
+		
+			<a href="content.php"><img src="res/images/logos/outgateproLogoMedAnimated.gif"></a>
+		
+		</div>
+	
+	
+	</body>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  //_gaq.push(['_setAccount', 'UA-34887154-1']);  // outofthegateproductions
+  _gaq.push(['_setAccount', 'UA-35105108-1']);  // outgatepro
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</html>
+<!-- Hosting24 Analytics Code -->
+<script type="text/javascript" src="http://stats.hosting24.com/count.php"></script>
+<!-- End Of Analytics Code -->
